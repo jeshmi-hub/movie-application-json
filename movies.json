@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "movieTitle": "Feel good",
+      "ratings": "10",
+      "year": "2002",
+      "genre": "LGBTQIA",
+      "id": 2
+    },
+    {
+      "id": "3",
+      "movieTitle": "Love story",
+      "ratings": "9",
+      "year": "2001",
+      "genre": "Romance"
+    },
+    {
+      "id": "1",
+      "movieTitle": "Lucy",
+      "ratings": "3",
+      "year": "2003",
+      "genre": "Thriller"
+    },
+    {
+      "id": "4",
+      "movieTitle": "Blended",
+      "ratings": "10",
+      "year": "2006",
+      "genre": "Comedy"
+    },
+    {
+      "id": "5",
+      "movieTitle": "Alive",
+      "ratings": "10",
+      "year": "2019",
+      "genre": "Zombie"
+    },
+    {
+      "id": "6",
+      "movieTitle": "Haunted House",
+      "ratings": "5.5",
+      "year": "2005",
+      "genre": "Horror"
+    }
+  ]
+}
