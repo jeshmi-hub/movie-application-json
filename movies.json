@@ -1,18 +1,11 @@
 {
   "movies": [
     {
-      "movieTitle": "Feel good",
+      "movieTitle": "The walking dead",
       "ratings": "10",
       "year": "2002",
-      "genre": "LGBTQIA",
-      "id": 2
-    },
-    {
-      "id": "3",
-      "movieTitle": "Love story",
-      "ratings": "9",
-      "year": "2001",
-      "genre": "Romance"
+      "genre": "Zombie",
+      "id": "3"
     },
     {
       "id": "1",
