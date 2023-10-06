@@ -22,18 +22,25 @@
       "genre": "Comedy"
     },
     {
-      "id": "5",
-      "movieTitle": "Alive",
+      "movieTitle": "Fear the walking dead ",
+      "ratings": "7",
+      "year": "2009",
+      "genre": "Horror",
+      "id": "6"
+    },
+    {
+      "id": "2",
+      "movieTitle": "The walking dead",
       "ratings": "10",
-      "year": "2019",
+      "year": "2006",
       "genre": "Zombie"
     },
     {
-      "id": "6",
-      "movieTitle": "Haunted House",
-      "ratings": "5.5",
-      "year": "2005",
-      "genre": "Horror"
+      "id": "7",
+      "movieTitle": "Hotel hell",
+      "ratings": "9",
+      "year": "2006",
+      "genre": "Cooking"
     }
   ]
 }
